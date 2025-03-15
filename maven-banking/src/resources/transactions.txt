@@ -1,0 +1,6 @@
+{
+  "juan.jose@urosario.edu.co": [
+    {"balance": "50", "type": "Deposit", "timestamp": "2025-02-11 14:17:21.921536"},
+    {"balance": "-20", "type": "Withdrawal", "timestamp": "2025-02-15 10:30:15.123456"}
+  ]
+}

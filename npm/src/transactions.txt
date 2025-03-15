@@ -1,0 +1,9 @@
+{
+  "juan.jose@urosario.edu.co": [
+    {
+      "tipo": "deposito",
+      "monto": 100
+    }
+  ],
+  "sara.palaciosc@urosario.edu.co": []
+}
